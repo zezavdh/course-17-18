@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 600 600"
+  font-family="Avenir"
+  font-size="35"
+  opacity="0.80"
+>
+  <!--Update the title with your username-->
+  <title>@zezavdh</title>
+
+  <!--Add stuff here-->
+
+<circle
+  cx="120"
+  cy="120"
+  r="100"
+/>
+
+<rect 
+  x="200"
+  y="200"
+  width="100"
+  height="100"
+/>
+
+<line
+  x1="400"
+  y1="160"
+  y2="310"
+  x2="310"
+  stroke-width="20"
+  stroke="pink"
+/>
+
+<polygon
+  points="340,63.3 315,106.7 265,106.7 240,63.3 265,20 315,20"
+/>
+
+<path
+  d="M 340 340 L 440 340 L 390 420 z"
+/>
+
+<text
+  x="80"
+  y="300"
+  font-family="Avenir"
+  font-size="35"
+  fill="orange">
+  Hey!
+</text>
+
+<g
+  fill="#cce6ff"
+  stroke="#ffb366"
+  stroke-width="10"
+>
+  <circle cx="60" cy="430" r="40" />
+  <circle cx="90" cy="430" r="40" />
+  <circle cx="120" cy="430" r="40" />
+  <circle cx="150" cy="430" r="40" />
+</g>
+  
+
+
+  <!-- NOTHING TO SEE HERE... MOVE ALONG!!! -->
+</svg>
